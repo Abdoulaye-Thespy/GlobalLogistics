@@ -19,8 +19,8 @@
 
 /* Colors */
 :root {
-  --color-default: #0a0d13;
-  --color-primary: #0d42ff;
+  --color-default:  #031901;
+  --color-primary: #063501;
   --color-secondary: #0e1d34;
 }
 
@@ -295,7 +295,7 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 80px;
   margin-right: 6px;
 }
 
