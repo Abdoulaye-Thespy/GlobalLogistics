@@ -21,7 +21,7 @@
 :root {
   --color-default:  #031901;
   --color-primary: #063501;
-  --color-secondary: #0e1d34;
+  --color-secondary:  #1a1a1a;
 }
 
 /* Smooth scroll behavior */
@@ -632,6 +632,10 @@ section {
 /*--------------------------------------------------------------
 # About Us Section
 --------------------------------------------------------------*/
+
+.about {
+  margin-top: 120px;
+}
 .about .content h3 {
   font-weight: 700;
   font-size: 32px;
@@ -1702,7 +1706,7 @@ section {
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: 50vh;
+  min-height: 70vh;
   background-color: var(--color-secondary);
   background-image: url("../img/hero-bg.png");
   background-size: cover;
