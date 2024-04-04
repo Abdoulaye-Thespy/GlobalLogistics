@@ -852,11 +852,12 @@ section {
 # Features Section
 --------------------------------------------------------------*/
 .features {
-  padding: 80px;
+  padding: 0;
+  margin: 5px;
 }
 
 .features .features-item+.features-item {
-  margin-top: 100px;
+  margin-top: 10px;
 }
 
 .features-item {
