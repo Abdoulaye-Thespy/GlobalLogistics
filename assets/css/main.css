@@ -861,8 +861,9 @@ section {
 }
 
 .features-item {
+  margin: 50px;
+  padding-bottom: 20px;
   border: 1px solid green;
-  padding-bottom: 25px;
   border-radius: 15px;
 }
 
