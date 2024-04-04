@@ -852,11 +852,17 @@ section {
 # Features Section
 --------------------------------------------------------------*/
 .features {
-  padding-top: 80px;
+  padding: 80px;
 }
 
 .features .features-item+.features-item {
   margin-top: 100px;
+}
+
+.features-item {
+  border: 1px solid green;
+  padding-bottom: 25px;
+  border-radius: 15px;
 }
 
 @media (max-width: 640px) {
@@ -1921,4 +1927,11 @@ section {
 
 .gly {
   margin-top: 20px;
+}
+
+
+.image-actuality img {
+
+  border-radius: 10px;
+
 }
